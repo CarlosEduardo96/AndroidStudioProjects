@@ -1,2 +1,2 @@
-Practicas de Androit Studio
-Realizadas por Carlos Eduardo
+##Practicas de Androit Studio
+*Realizadas por Carlos Eduardo*
